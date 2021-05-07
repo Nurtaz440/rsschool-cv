@@ -10,9 +10,9 @@
     </p>
  
 <ul>
-	<li><p><a href="@nurtazdev">Telegram </a></p></li>
-	<li><p><a href="linkedin.com/in/nurtaza-ayxojayev-2994681a9">Linkedln </a></p></li>
-	<li><p><a href="Nurtaz440">Github</a></p></li>
+	<li><p><a href="https://t.me/@nurtazdev">Telegram </a></p></li>
+	<li><p><a href="https://linkedin.com/in/nurtaza-ayxojayev-2994681a9">Linkedln </a></p></li>
+	<li><p><a href="https://github.com/Nurtaz440">Github</a></p></li>
 </ul>
 <p> 
     <h2 align="margin-left">Summary  </h2>
