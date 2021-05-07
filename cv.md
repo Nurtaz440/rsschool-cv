@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -24,7 +24,7 @@
     <p>
     I started learning Android Studio last year.I learned more thing from Youtobe channels.I learned Android Studio with java.I study TDTU at Tashkent,now I am 2nd course at university.We have C++,proteus,Compus,Web development and Java lessons,Furthemore I know less kowledge with it too.
     </p>
-     <h2 align="margin-left">Code examples </h2 
+     <h2 align="margin-left">Code examples: </h2>
       <p>
      package mening.dasturim.tablelayout;
 
