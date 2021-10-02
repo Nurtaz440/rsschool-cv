@@ -17,220 +17,189 @@
 <p> 
     <h2 align="margin-left">Summary  </h2>
      <p>
-     I have desire to learn Android Studio well and work as junior.I have got less knowledge with Android Studio,I will wont to go to internship in summer.It helps me to get more knowledge which i do not have.Juniors do not stop to leraning because They have more thing they don't know.Knowledge is leanguege which deaf can hear and blind can see!!
+     I have desire to learn Android Studio well and my knowladge as junior.Juniors do not stop to leraning because They have more thing they don't know.Knowledge is leanguege which deaf can hear and blind can see!!
     </p>
   </p>
     <h2 align="margin-left"> Skills </h2>
     <p>
-    I started learning Android Studio last year.I learned more thing from Youtobe channels.I learned Android Studio with java.I study TDTU at Tashkent,now I am 2nd course at university.We have C++,proteus,Compus,Web development and Java lessons,Furthemore I know less kowledge with it too.
+    I started learning Android Studio last year.I learned more thing from Youtobe channels.I learned Android Studio with java at moment Kotlin.I study <p><a href="https://tdtu.uz">TDTU </a> in Tashkent,now I am 3rd course at university.We have C++,proteus,Compus,Web development and Java lessons,Furthemore I know less kowledge with it too.
     </p>
      <h2 align="margin-left">Code examples: </h2>
       <p>
-     package mening.dasturim.tablelayout;
+	      Code of app,enter number return the number you enter will display the next 5 black tables
+	      
+     button.setOnClickListener {
+            val result = editText.text.toString().toInt()
+            if (5 >=result ) {
 
-public class MainActivity extends AppCompatActivity {
 
-    private EditText display;
-    private ImageView imageView;
+                for (i in 1..9) {
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-    @Override
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+                    textView.append(("$result * $i" + "=" + result * i + "\n").toString())
 
-        display=findViewById(R.id.edit_view);
-        imageView=findViewById(R.id.image_view);
-        display.setShowSoftInputOnFocus(false);
 
-        display.setOnClickListener(v -> {
-            if(getString(R.string.display_text).equals(display.getText().toString())){
-                display.setText("");
+                }
+                //   textView2.append("\n")
+                val number = result + 1
+                for (i in 1..9) {
+
+                    textView2.append(("$number * $i" + "=" + number * i + "\n").toString())
+
+
+                }
+                // textView3.append("\n")
+                val number2 = result + 2
+                for (i in 1..9) {
+
+                    textView3.append(("$number2 * $i" + "=" + number2 * i + "\n").toString())
+
+
+                }
+                textView.append("\n")
+                val number3 = result + 3
+                for (i in 1..9) {
+
+                    textView.append(("$number3 * $i" + "=" + number3 * i + "\n").toString())
+
+
+                }
+                textView2.append("\n")
+                val number4 = result + 4
+                for (i in 1..9) {
+
+                    textView2.append(("$number4 * $i" + "=" + number4 * i + "\n").toString())
+
+
+                }
+
+
+            } else if (result in 6..9) {
+
+                for (i in 1..9) {
+
+                    textView.append(("$result * $i" + "=" + result * i + "\n").toString())
+
+
+                }
+                val number = result + 1
+                if (number in  10..13) {
+
+                    for (i in 1..number) {
+
+                        textView2.append(("$number * $i" + "=" + number * i + "\n").toString())
+
+
+                    }
+
+                } else {
+
+                    for (i in 1..9) {
+
+                        textView2.append(("$number * $i" + "=" + number * i + "\n").toString())
+
+
+                    }
+                }
+                val number2 = result + 2
+                if (number2 in 10..13) {
+
+                    for (i in 1..number2) {
+
+                        textView3.append(("$number2 * $i" + "=" + number2 * i + "\n").toString())
+
+
+                    }
+                } else {
+
+                    for (i in 1..9) {
+
+                        textView3.append(("$number2 * $i" + "=" + number2 * i + "\n").toString())
+
+
+                    }
+                }
+                textView.append("\n")
+               val number3=result + 3
+                if ( number3 in 10..13) {
+
+                    for (i in 1..number3) {
+
+                        textView.append(("$number3 * $i" + "=" + number3 * i + "\n").toString())
+
+
+                    }
+                } else {
+
+                    for (i in 1..9) {
+
+                        textView.append(("$number3 * $i" + "=" + number3 * i + "\n").toString())
+
+
+                    }
+                }
+                textView2.append("\n")
+                val number4=result + 4
+                if ( number4 in  10..13) {
+
+                    for (i in 1..number4) {
+
+                        textView2.append(("$number4 * $i" + "=" + number4 * i + "\n").toString())
+
+
+                    }
+                } else {
+
+                    for (i in 1..10) {
+
+                        textView2.append(("$number4 * $i" + "=" + number4 * i + "\n").toString())
+
+
+                    }
+                }
+
+            } else if (result >= 10) {
+
+
+                for (i in 1..result) {
+
+                    textView.append(("$result * $i" + "=" + result * i + "\n").toString())
+
+
+                }
+                val number = result + 1
+                for (i in 1..number) {
+
+                    textView2.append(("$number * $i" + "=" + number * i + "\n").toString())
+
+
+                }
+                val number2 = result + 2
+                for (i in 1..number2) {
+
+                    textView3.append(("$number2 * $i" + "=" + number2 * i + "\n").toString())
+
+
+                }
+                textView.append("\n\n")
+                val number3 = result + 3
+                for (i in 1..number3) {
+
+                    textView.append(("$number3 * $i" + "=" + number3 * i + "\n").toString())
+
+
+                }
+                textView2.append("\n")
+                val number4 = result + 4
+                for (i in 1..number4) {
+
+                    textView2.append(("$number4 * $i" + "=" + number4 * i + "\n").toString())
+
+
+                }
+
             }
-        });
-
-        imageView.setOnClickListener(v->{
-            Intent intent =new Intent(MainActivity.this,MainActivity2.class);
-            startActivity(intent);
-        });
-    }
-    private void updateText(String strToAdd){
-        String oldStr=display.getText().toString();
-        int cursorPos=display.getSelectionStart();
-        String leftStr=oldStr.substring(0,cursorPos);
-        String rightStr=oldStr.substring(cursorPos);
-        if(getString(R.string.display_text).equals(display.getText().toString())){
-            display.setText(strToAdd);
-        }else {
-            display.setText(String.format("%s%s%s", leftStr, strToAdd, rightStr));
-        }
-        display.setSelection(cursorPos + 1);
-    }
-    public void zeroBtn(@NonNull View view){
-        updateText("0");
-    }
-    public void oneBtn(@NonNull View view){
-        updateText("1");
-    }
-    public void twoBtn(@NonNull View view){
-        updateText("2");
-    }
-    public void threeBtn(@NonNull View view){
-        updateText("3");
-    }
-       public void fouroBtn(@NonNull View view){
-        updateText("4");
-    }
-       public void fiveBtn(@NonNull View view){
-        updateText("5");
-    }
-       public void sevenBtn(@NonNull View view){
-        updateText("7");
-    }
-       public void eightBtn(@NonNull View view){
-        updateText("8");
-    }
-       public void nineBtn(@NonNull View view){
-        updateText("9");
-    }
-       public void sixBtn(@NonNull View view){
-        updateText("6");
-    }
-       public void clearBtn(@NonNull View view){
-        display.setText("");
-    }
-
- public void sinusBtn(@NonNull View view){
-        updateText("sin()");
-
-
-    }
-    public void cosBtn(@NonNull View view){
-        updateText("cos()");
-    }
-    public void tanBtn(@NonNull View view){
-        updateText("tan()");
-    }
-    public void arcsinBtn(@NonNull View view){
-        updateText("arcsin()");
-    }
-       public void arccosBtn(@NonNull View view){
-        updateText("arccos()");
-    }
-       public void arctanBtn(@NonNull View view){
-        updateText("arctan()");
-    }
-       public void logBtn(@NonNull View view){
-        updateText("log()");
-    }
-       public void lnBtn(@NonNull View view){
-        updateText("ln()");
-    }
-       public void squarerootBtn(@NonNull View view){
-        updateText("sqrt()");
-    }
-       public void eBtn(@NonNull View view){
-        updateText("e");
-    }
-       @SuppressLint("SetTextI18n")
-       public void piBtn(@NonNull View view){
-        display.setText("pi");
-    }
-      @SuppressLint("SetTextI18n")
-      public void abstaractBtn(@NonNull View view){
-        display.setText("abs()");
-    }
-
-       public void primeBtn(@NonNull View view){
-        updateText("ispr()");
-    }
-       public void xsquareBtn(@NonNull View view){
-        updateText("^(2)");
-    }
-       public void xnsquareBtn(@NonNull View view){
-        display.setText("^())");
-        parBtn(view);
-
-    }
-
-
-
-       public void parBtn(@NonNull View view){
-
-        int cursorPos=display.getSelectionStart();
-        int openPar=0;
-        int close = 0;
-        int textLen=display.getText().length();
-
-        for(int i=0;i<cursorPos;i++){
-            if(display.getText().toString().startsWith("(", i)){
-                openPar +=1;
-
-            }else if(display.getText().toString().startsWith(")", i)){
-                close +=1;
-            }
-        }
-        if(openPar==close || display.getText().toString().startsWith("(", textLen-1)){
-
-            updateText("(");
-
-        }else if (close <openPar || !display.getText().toString().startsWith("(", textLen-1)){
-            updateText(")");
 
         }
-           display.setSelection(cursorPos+1);
-    }
-       public void expBtn(@NonNull View view){
-        updateText("^");
-    }
-       public void plusMinusBtn(@NonNull View view){
-        updateText("-");
-    }
-       public void decimalBtn(@NonNull View view){
-        updateText(".");
-    }
-       public void addBtn(@NonNull View view){
-        updateText("+");
-    }
-       public void subtractBtn(@NonNull View view){
-        updateText("-");
-    }
-       public void equalBtn(@NonNull View view){
-
-           String userExpresion=display.getText().toString();
-           userExpresion=userExpresion.replaceAll("÷","/");
-           userExpresion=userExpresion.replaceAll("×","*");
-
-           Expression expression=new Expression(userExpresion);
-
-           String result=String.valueOf(expression.calculate());
-
-           display.setText(result);
-           display.setSelection(result.length());
-
-       }
-    public void multiplyBtn(@NonNull View view){
-        updateText("×");
-    }
-     public void divideBtn(@NonNull View view){
-        updateText("÷");
-    }
-
-       public void backspaceBtn(@NonNull View view){
-
-        int cursorPos=display.getSelectionStart();
-        int textLen =display.getText().length();
-
-        if(cursorPos != 0 && textLen != 0 ) {
-            SpannableStringBuilder selecton = (SpannableStringBuilder) display.getText();
-
-            selecton.replace(cursorPos - 1, cursorPos, "");
-
-            display.setText(selecton);
-            display.setSelection(cursorPos - 1);
-        }
-           }
-}
     </p>
       <h2 align="margin-left"> Experience  </h2>
       <p>
