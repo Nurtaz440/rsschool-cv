@@ -13,6 +13,7 @@
 	<li><h2><a href="https://www.instagram.com/nurtazdev/"> <img height="20" width="30" alt="fragment 1" src="https://dmr-structural.co.uk/wp-content/uploads/2021/02/logo-minimalist-instagram.png"/> Instagram</a></h2></li>
 	<li><h2><a href="https://www.linkedin.com/in/nurtaz-aykhujaev-2994681a9/"><img height="30" width="30" alt="fragment 1" src="https://www.redkeynetwork.org/resources/Pictures/Linkedin-01.png"/> Linkedln</a></h2></li>
 	<li><h2><a href="https://github.com/Nurtaz440"><img height="30" width="30" alt="fragment 1" src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png"/> Github</a></h2></li>
+	<li><h2><a href="https://g.dev/Nurtazdev"><img height="30" width="30" alt="fragment 1" src="https://www.oxygenxml.com/img/google_icon.png"/> Google Career</a></h2></li>
 </ul>
 <p> 
     <h2 align="margin-left">Summary  </h2>
