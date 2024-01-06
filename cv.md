@@ -1,4 +1,3 @@
-
 <html>
 <head>
 </head>
@@ -6,13 +5,14 @@
 <h1 align="margin-left">CV</h1>
   <h2 align="margin-left">Contact Info: </h2>
     <p>
-      Hello, I am Nurtaza Ayxo'jayev
+      Hello, I am Nurtoza Aykhujaev
     </p>
  
 <ul>
-	<li><p><a href="https://t.me/@nurtazdev">Telegram </a></p></li>
-	<li><p><a href="https://linkedin.com/in/nurtaza-ayxojayev-2994681a9">Linkedln </a></p></li>
-	<li><p><a href="https://github.com/Nurtaz440">Github</a></p></li>
+	<li><h2><a href="https://t.me/@nurtazdev"> <img height="20" width="30" alt="fragment 1" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg"/> Telegram </a></h2></li>
+	<li><h2><a href="https://www.instagram.com/nurtazdev/"> <img height="20" width="30" alt="fragment 1" src="https://dmr-structural.co.uk/wp-content/uploads/2021/02/logo-minimalist-instagram.png"/> Instagram</a></h2></li>
+	<li><h2><a href="https://www.linkedin.com/in/nurtaz-aykhujaev-2994681a9/"><img height="30" width="30" alt="fragment 1" src="https://www.redkeynetwork.org/resources/Pictures/Linkedin-01.png"/> Linkedln</a></h2></li>
+	<li><h2><a href="https://github.com/Nurtaz440"><img height="30" width="30" alt="fragment 1" src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png"/> Github</a></h2></li>
 </ul>
 <p> 
     <h2 align="margin-left">Summary  </h2>
