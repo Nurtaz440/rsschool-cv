@@ -44,15 +44,19 @@
 	 <p><li>Utilized VR library to allow clients see Stadiums Panaramic View.</li></p>
 	 <p><li><b>Learned</b> basics of Firabase and how to implement parsing in project without previous experience.</li></p>  
       </ul>
-  <p><a href="https://www.youtube.com/watch?v=gLtwowsYoWE">MentalCare</a> </p>
+	       <ul>  
+ <pre><h3><a href="https://github.com/Nurtaz440/SoluitionChallenge">Talk Time</a>  | <i>Kotlin, Camera, TTS, OCR                                                March 2021</i></pre></h3>
+	 <p><li>Created Text to Speach app, you can scane the paper and it makes text and read it loudly for whose eye sight low or blind.</li></p>  
+	 <p><li>Used OCR library to scan the text and make it text. </li></p>
+	 <p><li>Implemented Text To Speach read the text. </li></p>  
+      </ul>
+
+  </p>
+      <h2 align="margin-left"> Honors and Awards </h2>
+      
+
   
   </p>
-      <h2 align="margin-left"> Experience  </h2>
-      <p>
-  
-  <a href="https://www.youtube.com/channel/UC6zqCVhCqAC76PXZg_hMOow"> I have youtobe channel</a>
-  </p>
-        <h2 align="margin-left">  Education  </h2>
           <p>I have completed those courses Udemy,Udacity,Coursera,Alison 
   </p>
          <h2 align="margin-left"> English </h2>
