@@ -16,18 +16,15 @@
 	<li><h2><a href="https://g.dev/Nurtazdev"><img height="30" width="30" alt="fragment 1" src="https://www.oxygenxml.com/img/google_icon.png"/> Google Career</a></h2></li>
 </ul>
 <p> 
-    <h2 align="margin-left">Summary  </h2>
-     <p>
-     I have desire to learn Android Studio well and my knowladge as junior.Juniors do not stop to leraning because They have more thing they don't know.Knowledge is leanguege which deaf can hear and blind can see!!
-    </p>
-  </p>
-    <h2 align="margin-left"> Skills </h2>
-    <p> I study <p><a href="https://tdtu.uz">TDTU </a> in Tashkent,now I am 3rd course at university.We have C++,proteus,Compus,Web development and Java lessons,Furthemore I know less kowledge with it too.
-    </p>
-    I started learning Android Studio 2 years ago.I learned more thing from Youtobe channels.I learned Android Studio with java than Kotlin.I have more demo apps.I knew <p>Retrofit, </p> 
-   <p>RxJava </p> <p>Firebase</p> <p>Navigation</p> <p>LiveData</p> <p>ViewBinding,Databinding</p>  <p>DiffUtil</p> <p>MVVM</p>  <p>Material design</p> 
-     <h2 align="margin-left">Apps: </h2>
-      <p>
+   <h2 align="margin-left">Education: </h2>
+   <ul>
+    <h3><li> <pre>Academic lyceum of Chirchik State Pedagogical Institut                        Tashkent, Uzbekistan</pre></li></h3>	
+    <p><pre><i>College degree in Exact science                                                                   Sep. 2016 - June 2019</i></pre></p>
+    <h3><li> <pre>Tashkent State Technical University                                           Tashkent, Uzbekistan</pre></li></h3>	
+    <p><pre><i>Bachelor degree in Informatics and Information technologies                                       Sep. 2019 - June 20223</i></pre></p>
+    <p><pre>Diploma work: Development of mobile application of job search service based on Android sowtware</pre></p>
+    </ul>
+    
 <a href="https://github.com/Nurtaz440/Instagram">Instagram demo(with Java) </a></p>
 	<p><a href="https://github.com/Nurtaz440/MyMobile">USSD codes(with Kotlin) </a></p>
     <p><a href="https://github.com/Nurtaz440/MyBabyApp">BabyCare</a> </p>
