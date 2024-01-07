@@ -23,11 +23,27 @@
     <h3><li> <pre>Tashkent State Technical University                                           Tashkent, Uzbekistan</pre></li></h3>	
     <p><pre><i>Bachelor degree in Informatics and Information technologies                                       Sep. 2019 - June 20223</i></pre></p>
     <p><pre>Diploma work: Development of mobile application of job search service based on Android sowtware</pre></p>
+    <h3><li> <pre>Compose camp by Google</pre></li></h3>	
+    <p><pre><i>Participant</i></pre></p>
+    <p><pre>Participant in a three-month Android Compose Camp by Google</pre></p>
+    <h3><li> <pre>Android Study Jum by Google</pre></li></h3>	
+    <p><pre><i>Participant</i></pre></p>
+    <p><pre>Participant in a three-month Android Study Jum by Google</pre></p>
     </ul>
-    
-<a href="https://github.com/Nurtaz440/Instagram">Instagram demo(with Java) </a></p>
-	<p><a href="https://github.com/Nurtaz440/MyMobile">USSD codes(with Kotlin) </a></p>
-    <p><a href="https://github.com/Nurtaz440/MyBabyApp">BabyCare</a> </p>
+      <h2 align="margin-left">Projects: </h2>
+      <ul>
+ <pre><h3><a href="https://github.com/Nurtaz440/NeobisChallenge">Eco Market App </a>  | <i>Kotlin, Glide, OkHttp, Retrofit                                     December 2023</i></pre></h3>
+	 <p><li>Developing Application by implementing OkHtttp and Retrofit library which supports GET and POST functionality. </li></p>  
+	 <p><li>Realized the connection between <b>Kotlin and MySQL Server</b> by using Retrofit to manage data.</li></p>
+	 <p><li><b>Learned</b> how to manipulate and build queries though Android Studio.</li></p>  
+      </ul>
+ <pre><h3><b>World Cup</b> | <i>Kotlin, RealDatabase,Storage,FCM,Crashlytics,Firestore, MVVM, Kohi, VR           January 2022</i></pre></h3>
+	 <p><li>Building an app using Firbase(RealDatabase,Storage,FCM,Crashlytics,Firestore) libraries which supports save app data.  </li></p>  
+	 <p><li>Implemented Kohi library, which get video url and display awesome to viewer.</li></p>
+	 <p><li>Accomplished code using MVVM architecture to interact well with other classes.</li></p>
+	 <p><li>Utilized VR library to allow clients see Stadiums Panaramic View.</li></p>
+	 <p><li><b>Learned</b> basics of Firabase and how to implement parsing in project without previous experience.</li></p>  
+      </ul>
   <p><a href="https://www.youtube.com/watch?v=gLtwowsYoWE">MentalCare</a> </p>
   
   </p>
