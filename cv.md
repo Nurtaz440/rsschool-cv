@@ -2,12 +2,10 @@
 <head>
 </head>
 <body>
-<h1 align="margin-left">CV</h1>
-  <h2 align="margin-left">Contact Info: </h2>
-    <p>
+    <h1>
       Hello, I am Nurtoza Aykhujaev
-    </p>
- 
+    </h1>
+  <h2 align="margin-left">Contact Info: </h2>
 <ul>
 	<li><h2><a href="https://t.me/@nurtazdev"> <img height="20" width="30" alt="fragment 1" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg"/> Telegram </a></h2></li>
 	<li><h2><a href="https://www.instagram.com/nurtazdev/"> <img height="20" width="30" alt="fragment 1" src="https://dmr-structural.co.uk/wp-content/uploads/2021/02/logo-minimalist-instagram.png"/> Instagram</a></h2></li>
@@ -53,7 +51,9 @@
 
   </p>
       <h2 align="margin-left"> Honors and Awards </h2>
-      
+     <ul>  
+<li> Participated NeoBook 14 days challenge and won Udemy course. This challenge I created EcoMarket app, which assignment given by NeoBook company. </li>
+	     
 <table> 
    <tr> 
      <td align="center"> 
@@ -150,5 +150,66 @@
 Unicorns SCO
      </td> 
   </table> 
+  </ul>
+      <h2 align="margin-left"> Leadership / Extracurricular </h2>
+         <ul>  
+       <table>
+	   <tr> 
+	     <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-08_00-05-37.jpg?alt=media&token=85dd66f9-dbf3-44b8-ba6a-516e8a92b5ba"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-08_00-05-37.jpg?alt=media&token=85dd66f9-dbf3-44b8-ba6a-516e8a92b5ba" height="350" width="200" alt="image" /> 
+         </a> 
+     </td> 
+	    <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ftechnovation.PNG?alt=media&token=212f981b-b67c-4932-b471-e42366203c23"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ftechnovation.PNG?alt=media&token=212f981b-b67c-4932-b471-e42366203c23" height="250" width="350" alt="image" /> 
+         </a> 
+     </td> 
+   <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-16_12-06-12.png?alt=media&token=eb564fc7-cd08-4116-8ebf-621f4502ad9f"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-16_12-06-12.png?alt=media&token=eb564fc7-cd08-4116-8ebf-621f4502ad9f" height="200" width="350" alt="image" /> 
+         </a> 
+     </td> 
+	   </tr>
+	
+   <td align="center"> 
+  Google developer student club Lead
+     </td> 
+   <td align="center"> 
+Technovation Girls Challenge Mentor
+     </td>
+  <td align="center"> 
+Aspire institut Lead
+     </td>
+  </table> 
+    <table>
+	   <tr> 
+	     <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-10_15-19-03.png?alt=media&token=3ff64b35-6926-40f4-9657-0ea376b16e16"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-10_15-19-03.png?alt=media&token=3ff64b35-6926-40f4-9657-0ea376b16e16" height="200" width="350" alt="image" /> 
+         </a> 
+     </td> 
+	    <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-10_15-12-22.png?alt=media&token=de2ca9d5-25dc-4838-ba46-73e1130ff7dc"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fimage_2023-12-10_15-12-22.png?alt=media&token=de2ca9d5-25dc-4838-ba46-73e1130ff7dc" height="250" width="350" alt="image" /> 
+         </a> 
+     </td> 
+	   </tr>
+	
+   <td align="center"> 
+  KECTIL Youth Development Program Participant.
+     </td> 
+   <td align="center"> 
+Istanbul International Model United Nation participant.
+     </td>
+ 
+  </table> 
+  </ul>
+   <h2 align="margin-left">Technical Skills</h2>
+    <ul>
+ <li>   <h3><b>Languages:</b></h3> Kotlin(Main), Java, HTML/CSS, Python </li>
+  <li>  <h3><b>Developer Tools:</b></h3> IntelliJ IDEA, Android Studio, Sublime, PyCharm, MySQL </li>
+  <li>  <h3><b>Technologies/Frameworks:</b></h3> Windows, GitHub, Canva, Figma </li>
+    </ul>
   </body>
 </html>
