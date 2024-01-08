@@ -54,14 +54,101 @@
   </p>
       <h2 align="margin-left"> Honors and Awards </h2>
       
-
-  
-  </p>
-          <p>I have completed those courses Udemy,Udacity,Coursera,Alison 
-  </p>
-         <h2 align="margin-left"> English </h2>
-         <p>
-  I know English lenguege as Intermedite
-  </p>
+<table> 
+   <tr> 
+     <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2FNurtaz_gdsc.png?alt=media&token=4142c067-6904-4070-bcd7-408d7308a7a2"> 
+            <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2FNurtaz_gdsc.png?alt=media&token=4142c067-6904-4070-bcd7-408d7308a7a2" height="200" width="200" alt="image" /> 
+         </a> 
+     </td> 
+     <td align="center"> 
+  <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2FScreenshot_20230123-203659_WPS%20Office.jpg?alt=media&token=7991b91f-7dab-408e-a090-9911b12140b4" height="200" width="200" alt="image" /> 
+  </td> 
+     <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fanalytics.PNG?alt=media&token=941c16e9-7efc-4826-ad3c-f99b24961210"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fanalytics.PNG?alt=media&token=941c16e9-7efc-4826-ad3c-f99b24961210" height="200" width="200" alt="image" /> 
+         </a> 
+     </td> 
+     <td align="center"> 
+  <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fandroid_course.PNG?alt=media&token=6538379d-f2d7-4a3d-82b3-2e796740bb62" height="200" width="200" alt="image" /> 
+     </td> 
+   </tr> 
+   <tr> 
+    <td align="center"> 
+      Google developer student club core member 
+     </td> 
+     <td align="center"> 
+      Compose Camp by Google 
+     </td> 
+     <td align="center"> 
+  Google Analitics Academy 
+     </td> 
+  <td align="center"> 
+  Android Bootcamp 
+     </td> 
+</td> 
+ 
+   </tr> 
+   
+</table>
+  <table>
+	   <tr> 
+	  <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ffemina_violence.PNG?alt=media&token=f5f8e857-ebe2-4717-bb29-418f7d1a2352"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ffemina_violence.PNG?alt=media&token=f5f8e857-ebe2-4717-bb29-418f7d1a2352" height="200" width="200" alt="image" /> 
+         </a> 
+     </td> 
+		    <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ffreelance.PNG?alt=media&token=a8b548aa-3a69-4d66-8bbc-8d42176d86dd"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Ffreelance.PNG?alt=media&token=a8b548aa-3a69-4d66-8bbc-8d42176d86dd" height="200" width="200" alt="image" /> 
+         </a> 
+     </td> 
+		   <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-37-29.jpg?alt=media&token=d9da021b-5931-43e3-b97c-ebb1e6473b2d"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-37-29.jpg?alt=media&token=d9da021b-5931-43e3-b97c-ebb1e6473b2d" height="250" width="250" alt="image" /> 
+         </a> 
+     </td> 
+	   <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-38-14.jpg?alt=media&token=d17a240a-8ba6-40d5-946a-7fabcd2e4136"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-38-14.jpg?alt=media&token=d17a240a-8ba6-40d5-946a-7fabcd2e4136" height="250" width="250" alt="image" /> 
+         </a> 
+     </td> 
+	   </tr>
+	  <tr>
+   <td align="center"> 
+  Spotlight Digital Challenge
+     </td> 
+   <td align="center"> 
+  Freelance
+     </td> 
+    <td align="center"> 
+  ABC Weekend
+     </td>
+ <td align="center"> 
+  Voice Ai Challenge
+     </td>
+	   </tr>
+  </table> 
+	 <table>
+	   <tr> 
+	     <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-43-12.jpg?alt=media&token=0320da82-185b-4afa-a1d1-ddcf93f108c7"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Fphoto_2024-01-07_23-43-12.jpg?alt=media&token=0320da82-185b-4afa-a1d1-ddcf93f108c7" height="250" width="350" alt="image" /> 
+         </a> 
+     </td> 
+	    <td align="center"> 
+         <a href="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Funicorn.PNG?alt=media&token=faffc647-edde-4683-bbe1-2727741c7b7f"> 
+           <img src="https://firebasestorage.googleapis.com/v0/b/sport-c804d.appspot.com/o/certificate%2Funicorn.PNG?alt=media&token=faffc647-edde-4683-bbe1-2727741c7b7f" height="250" width="350" alt="image" /> 
+         </a> 
+     </td> 
+	   </tr>
+	
+   <td align="center"> 
+  Open Data Challenge
+     </td> 
+   <td align="center"> 
+Unicorns SCO
+     </td> 
+  </table> 
   </body>
 </html>
